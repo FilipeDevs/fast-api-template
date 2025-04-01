@@ -1,4 +1,4 @@
-# A FastAPI Template
+# A Fast API Template
 
 ## Commands
 
