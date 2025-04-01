@@ -1,3 +1,5 @@
+# A FastAPI Template
+
 ## Commands
 
 ### Create a Virtual Environment¶
